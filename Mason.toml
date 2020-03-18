@@ -2,5 +2,5 @@
 name = "UnrolledLinkedList"
 version = "0.1.0"
 chplVersion = "1.20.0"
-
+source="https://github.com/ahsankamal/Chapel-UnrolledLinkedList.git"
 [dependencies]
